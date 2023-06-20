@@ -2,14 +2,11 @@
 
 
 
-    [Руководство пользователя](http://honey.com.ua/counter/manual.htm)
-    [Обзорная статья](https://habr.com/ru/post/568314/)
-    [Библиотека для Arduino с примерами скетчей](https://github.com/honechko/DS2423/)
-    [Статья о подключении и использовании 1-wire](https://habr.com/ru/post/529720/)
-    [Магазин](https://arduino.ua/prod4180-schetchik-impylsov-s-interfeisom-1-wire-sdelano-v-ykraine)
-    [Магазин](https://arduino.ua/prod4180-schetchik-impylsov-s-interfeisom-1-wire-sdelano-v-ykraine)
-    [OWFS](https://github.com/owfs/owfs)
-    
+* [Руководство пользователя](http://honey.com.ua/counter/manual.htm)
+* [Обзорная статья](https://habr.com/ru/post/568314/)
+* [Библиотека для Arduino с примерами скетчей](https://github.com/honechko/DS2423/)
+* [Статья о подключении и использовании 1-wire](https://habr.com/ru/post/529720/)
+* [Магазин](https://arduino.ua/prod4180-schetchik-impylsov-s-interfeisom-1-wire-sdelano-v-ykraine)
 
 
 
