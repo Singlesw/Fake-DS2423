@@ -1,6 +1,6 @@
 # Fake-DS2423
 
-Подключение Arduino к ENC28j60:
+## Подключение Arduino к ENC28j60:
 
     1. ENC28j60(VCC) - Arduino(3V3)
     2. ENC28j60(GND) - Arduino(GND)
@@ -8,8 +8,10 @@
     4. ENC28j60(SI)  - Arduino(D11)
     6. ENC28j60(SO)  - Arduino(D12)
     6. ENC28j60(SCK) - Arduino(D13)
-    
 
+## Подключение к датчику OneWire:
+
+![1-wire pulse counter](https://github.com/Singlesw/Fake-DS2423/blob/main/img/large_AOC741-8.jpg)
 
 
 * [Руководство пользователя](http://honey.com.ua/counter/manual.htm)
