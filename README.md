@@ -1,5 +1,15 @@
 # Fake-DS2423
 
+Подключение Arduino к ENC28j60:
+
+    1. ENC28j60(VCC) - Arduino(3V3)
+    2. ENC28j60(GND) - Arduino(GND)
+    3. ENC28j60(CS)  - Arduino(D10)
+    4. ENC28j60(SI)  - Arduino(D11)
+    6. ENC28j60(SO)  - Arduino(D12)
+    6. ENC28j60(SCK) - Arduino(D13)
+    
+
 
 
 * [Руководство пользователя](http://honey.com.ua/counter/manual.htm)
@@ -7,6 +17,11 @@
 * [Библиотека для Arduino с примерами скетчей](https://github.com/honechko/DS2423/)
 * [Статья о подключении и использовании 1-wire](https://habr.com/ru/post/529720/)
 * [Магазин](https://arduino.ua/prod4180-schetchik-impylsov-s-interfeisom-1-wire-sdelano-v-ykraine)
+
+
+# Подключение
+
+
 
 
 
